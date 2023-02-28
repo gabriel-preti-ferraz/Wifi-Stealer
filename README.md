@@ -5,7 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/wifi-stealer?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/wifi-stealer?style=for-the-badge)
 
-<img src="stealer.pn" alt="Imagens Wifi-Stealer">
+<img src="stealer.png" alt="Imagens Wifi-Stealer">
 
 > Repositório para fins educacionais. Utilize por sua conta e risco.
 
